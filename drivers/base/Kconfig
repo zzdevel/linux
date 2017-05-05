@@ -324,4 +324,6 @@ config CMA_ALIGNMENT
 
 endif
 
+source "drivers/base/ump/Kconfig"
+
 endmenu
